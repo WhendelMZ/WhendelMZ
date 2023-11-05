@@ -1,6 +1,6 @@
 # Sobre Mim
 Olá! Meu nome é Whendel Muniz dos Santos, tenho 24 anos e sou estudante de Engenharia Biomédica pela Universidade Federal de Pernambuco. <br>Desde o ano de 2022, venho me interessando pela área de Inteligência Artificial e Machine Learning. A partir da disciplina de Inteligência Artificial Aplicada à Engenharia Biomédica e de cursos paralelos, como de python aplicado e de Ciência de Dados, venho fazendo projetos independentes para fortalecer meu aprendizado, como um artigo científico publicado e projetos a partir de bancos de dados da plataforma Kaggle. Com relação à atividades extensionistas e acadêmicas, fui Assessor de Projetos e Gerente de Projetos na Empresa Junior BioTech Consultoria entre os anos de 2021 e 2022 e também fui Presidente do Diretório Acadêmico de Engenharia Biomédica da UFPE entre os anos de 2022 e 2023. 
-<br> Artigo Publicado:[PREVISÃO DE MORTALIDADE POR INSUFICIÊNCIA CARDÍACA A PARTIR DE INTELIGÊNCIA ARTIFICIAL](https://doi.org/10.54751/revistafoco.v16n9-175) <br>[Currículo Lattes](http://lattes.cnpq.br/2931763581518214)<br> E-mail institucional: whendel.muniz@ufpe.br <br> E-mail adicional: whendelmunizdossantos@gmail.com
+<br> Artigo Publicado:[Previsão de Mortalidade por Insuficiência Cardíaca A Partir de Inteligência Artificial](https://doi.org/10.54751/revistafoco.v16n9-175) <br>[Currículo Lattes](http://lattes.cnpq.br/2931763581518214)<br> E-mail institucional: whendel.muniz@ufpe.br <br> E-mail adicional: whendelmunizdossantos@gmail.com
 
 
 # 💻 Tech Stack:
