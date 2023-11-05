@@ -3,7 +3,7 @@ Olá! Meu nome é Whendel Muniz dos Santos, tenho 24 anos e sou estudante de Eng
 <br> Artigo Publicado:[Previsão de Mortalidade por Insuficiência Cardíaca A Partir de Inteligência Artificial](https://doi.org/10.54751/revistafoco.v16n9-175) <br>[Currículo Lattes](http://lattes.cnpq.br/2931763581518214)<br> E-mail institucional: whendel.muniz@ufpe.br <br> E-mail adicional: whendelmunizdossantos@gmail.com
 
 
-# 💻 Tech Stack:
+# Aprendizados:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
