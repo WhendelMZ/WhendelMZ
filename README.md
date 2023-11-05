@@ -1,5 +1,8 @@
 # Sobre Mim
 Olá! Meu nome é Whendel Muniz, tenho 24 anos e sou estudante de Engenharia Biomédica pela Universidade Federal de Pernambuco. <br>Desde o ano de 2022, venho me interessando pela área de Inteligência Artificial e Machine Learning. A partir da disciplina de Inteligência Artificial Aplicada à Engenharia Biomédica e de cursos paralelos, como de python aplicado e de Ciência de Dados, venho fazendo projetos independentes para fortalecer meu aprendizado, como um artigo científico publicado e projetos a partir de bancos de dados da plataforma Kaggle. 
+Artigo Publicado:
+[PREVISÃO DE MORTALIDADE POR INSUFICIÊNCIA CARDÍACA A PARTIR DE INTELIGÊNCIA ARTIFICIAL](https://doi.org/10.54751/revistafoco.v16n9-175)
+
 
 
 # 💻 Tech Stack:
